@@ -19,6 +19,10 @@ Extensions I use in Visual Studio Code
 
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - `ext install auto-rename-tag`
 
+##CSS/Sass/Less
+
+[SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - `ext install vscode-scss`
+
 ##JavaScript
 
 [ESLINT](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - `ext install vscode-eslint`
