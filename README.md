@@ -39,6 +39,6 @@ Extensions I use in Visual Studio Code
 ## Misc UI Enhancements
 [VS Code Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - `ext install vscode-great-icons`
 
-[Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent) = `ext install vscode-paste-and-indent`
+[Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent) - `ext install vscode-paste-and-indent`
 
-[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) `ext install path-intellisense`
+[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - `ext install path-intellisense`
