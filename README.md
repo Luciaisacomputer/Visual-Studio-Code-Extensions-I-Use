@@ -1,11 +1,11 @@
 # Visual Studio Extensions I Use
 Extensions I use in Visual Studio Code
 
-##Themes
+## Themes
 
 [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - `ext install theme-dracula`
 
-##Angular 2
+## Angular 2
 
 [Angular v2 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - `ext install Angular-BeastCode`
 
@@ -13,7 +13,7 @@ Extensions I use in Visual Studio Code
 
 [Angular 2 Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - `ext install angular2-inline`
 
-##HTML
+## HTML
 
 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - `ext install auto-close-tag`
 
@@ -23,7 +23,7 @@ Extensions I use in Visual Studio Code
 
 [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - `ext install vscode-scss`
 
-##JavaScript
+## JavaScript
 
 [ESLINT](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - `ext install vscode-eslint`
 
@@ -32,12 +32,12 @@ Extensions I use in Visual Studio Code
 [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - `ext install typescript-hero`
 
 
-##Git
+## Git
 [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - `ext install partial-diff`
 
 [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - `ext install githistory`
 
-##Misc UI Enhancements
+## Misc UI Enhancements
 [VS Code Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - `ext install vscode-great-icons`
 
 [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent) = `ext install vscode-paste-and-indent`
