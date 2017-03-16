@@ -31,7 +31,6 @@ Extensions I use in Visual Studio Code
 
 [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - `ext install typescript-hero`
 
-
 ## Git
 [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - `ext install partial-diff`
 
@@ -41,3 +40,5 @@ Extensions I use in Visual Studio Code
 [VS Code Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - `ext install vscode-great-icons`
 
 [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent) = `ext install vscode-paste-and-indent`
+
+[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) `ext install path-intellisense`
