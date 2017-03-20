@@ -1,5 +1,5 @@
 # Visual Studio Extensions I Use
-Extensions I use in Visual Studio Code
+Extensions I use in Visual Studio Code on a daily basis. If there is something you think I should try out, open an issue, and I'll try it out. If I like it I'll add it to the list.
 
 ## Themes
 
