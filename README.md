@@ -9,6 +9,8 @@ Extensions I use in Visual Studio Code on a daily basis. If there is something y
 
 [Angular v2 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - `ext install Angular-BeastCode`
 
+[Angular 4 and TypeScript/HTML VS Code Snippets](https://marketplace.visualstudio.com/items?itemName=danwahlin.angular2-snippets) - `ext install angular2-snippets`
+
 [VS Code Angular 2 Files](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files) -`ext install vscode-angular2-files`
 
 [Angular 2 Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - `ext install angular2-inline`
