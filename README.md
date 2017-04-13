@@ -40,6 +40,10 @@ Extensions I use in Visual Studio Code on a daily basis. If there is something y
 
 [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - `ext install githistory`
 
+## WordPress
+
+[ACF Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet) - `ext install ACF-Snippet`
+
 ## Misc UI Enhancements
 [VS Code Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - `ext install vscode-great-icons`
 
