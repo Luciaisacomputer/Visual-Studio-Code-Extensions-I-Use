@@ -25,6 +25,8 @@ Extensions I use in Visual Studio Code on a daily basis. If there is something y
 
 [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - `ext install vscode-scss`
 
+[Sass Lint](https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint) - `ext install sass-lint`
+
 ## JavaScript
 
 [ESLINT](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - `ext install vscode-eslint`
