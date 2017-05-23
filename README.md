@@ -50,3 +50,5 @@ Extensions I use in Visual Studio Code on a daily basis.
 [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent) - `ext install vscode-paste-and-indent`
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - `ext install path-intellisense`
+
+[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - `ext install bracket-pair-colorizer`
