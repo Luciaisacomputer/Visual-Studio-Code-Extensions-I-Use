@@ -35,6 +35,8 @@ These are all the of the extensions I find myself constantly using. I try to kee
 
 [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - `ext install typescript-hero`
 
+[NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) = `ext install npm-intellisense`
+
 ## Git
 [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - `ext install partial-diff`
 
