@@ -15,6 +15,12 @@ These are all the of the extensions I find myself constantly using. I try to kee
 
 [Angular 2 Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - `ext install angular2-inline`
 
+## Vue
+
+[Vue Syntax Higlighting](https://marketplace.visualstudio.com/items?itemName=liuji-jim.vue) - `ext install vue`
+
+[Vetur additional vue tooling](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - `ext install vetur`
+
 ## HTML
 
 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - `ext install auto-close-tag`
