@@ -60,3 +60,7 @@ These are all the of the extensions I find myself constantly using. I try to kee
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - `ext install path-intellisense`
 
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - `ext install bracket-pair-colorizer`
+
+[SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) - `ext install vscode-svgviewer`
+
+[Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - `ext install vscode-faker`
