@@ -4,6 +4,7 @@ These are all the of the extensions I find myself constantly using. I try to kee
 ## Themes
 
 [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - `ext install theme-dracula`
+A really cool theme for all the goths out there.
 
 ## Angular 2
 
@@ -39,6 +40,8 @@ These are all the of the extensions I find myself constantly using. I try to kee
 
 [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json) - `ext install prettify-json`
 
+A very useful utility for making sense of JSON.
+
 [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - `ext install typescript-hero`
 
 [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) = `ext install npm-intellisense`
@@ -55,7 +58,7 @@ These are all the of the extensions I find myself constantly using. I try to kee
 ## Misc UI Enhancements
 [VS Code Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) - `ext install vscode-great-icons`
 
-[Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent) - `ext install vscode-paste-and-indent`
+I personally like these icons a lot.
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - `ext install path-intellisense`
 
