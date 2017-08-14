@@ -67,3 +67,5 @@ I personally like these icons a lot.
 [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) - `ext install vscode-svgviewer`
 
 [Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - `ext install vscode-faker`
+
+[Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) = `ext install wix.vscode-import-cost`
