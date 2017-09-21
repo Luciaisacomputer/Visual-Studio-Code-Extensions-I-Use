@@ -40,6 +40,8 @@ A really cool theme for all the goths out there.
 
 [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json) - `ext install prettify-json`
 
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - `ext install esbenp.prettier-vscode`
+
 A very useful utility for making sense of JSON.
 
 [Typescript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - `ext install typescript-hero`
