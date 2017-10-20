@@ -71,3 +71,5 @@ I personally like these icons a lot.
 [Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - `ext install vscode-faker`
 
 [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) = `ext install wix.vscode-import-cost`
+
+[C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - `ext install ms-vscode.csharp`
